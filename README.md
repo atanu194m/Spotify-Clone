@@ -2,7 +2,7 @@
 
 A hand-crafted, fully functional music player built with pure **HTML**, **CSS**, and **JavaScript** — no frameworks, just music.
 
-![Spotify Clone Banner](covers.jpg/1.jpg)
+![Spotify Clone Banner](covers.jpg/5.jpg)
 
 ---
 
